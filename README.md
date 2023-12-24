@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tutankhamunII
-- 👀 I’m interested in Robotics, Machine Learning, and Computer Engineering.
+- 👀 I’m interested in Robotics, Web Development, Machine Learning, AI, and Computer Engineering.
 - 🌱 I’m currently learning Machine Learning with Python, MCUs basics and programming, and Graphical language programming with user interface.
 - 📫 How to reach me: You can reach me via email helshafe@u.rochester.edu
 
