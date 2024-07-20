@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tutankhamunII
-- 👀 I’m interested in Robotics, Web Development, Machine Learning, AI, and Computer Engineering.
+- 👀 I’m interested in Robotics
 - 📫 How to reach me: You can reach me via email helshafe@u.rochester.edu
 
 <!---
